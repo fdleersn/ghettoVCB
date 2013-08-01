@@ -88,7 +88,7 @@ EMAIL_SERVER_PORT=25
 EMAIL_FROM=root@ghettoVCB
 
 # Email RCPT
-EMAIL_TO=auroa@primp-industries.com
+EMAIL_TO=test@test.com
 
 # Comma separated list of VM startup/shutdown ordering
 VM_SHUTDOWN_ORDER=
